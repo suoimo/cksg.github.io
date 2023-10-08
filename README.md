@@ -32,5 +32,5 @@ Nếu bạn đang nhận được giá trị từ vnstock, vnstock_market_data v
 Bạn có thể chọn 1 trong 3 hình thức đóng góp bao gồm: Momo, Chuyển khoản ngân hàng và Gửi tiền qua Paypal. Sự đóng góp của bạn sẽ giúp tôi duy trì nội dung blog và công cụ phân tích chứng khoán chất lượng cao. Cảm ơn bạn thật nhiều!
 
 - [Paypal](https://paypal.me/thinhvuphoto?country.x=VN&locale.x=en_US)
-- ![momo-qr](https://raw.githubusercontent.com/thinh-vu/vnstock/beta/src/momo-qr-thinhvu.jpeg)
-- ![vcb-qr](https://raw.githubusercontent.com/thinh-vu/vnstock/beta/src/vcb-qr-thinhvu.jpg)
+- ![momo-qr](https://raw.githubusercontent.com/thinh-vu/vnstock/beta/docs/assets/images/momo-qr-thinhvu.jpeg)
+- ![vcb-qr](https://raw.githubusercontent.com/thinh-vu/vnstock/beta/docs/assets/images/vcb-qr-thinhvu.jpg)
